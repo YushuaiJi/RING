@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 // Immutable canonical routing-layout image for the native query seam.
 #pragma once
 

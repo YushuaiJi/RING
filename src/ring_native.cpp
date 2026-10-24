@@ -3,7 +3,7 @@
 // selected on learning queries, never a guarantee of recall.
 // V3 engineering flags: 1=top-k selection,
 // 2=vector prefetch, 4=compact all-legal multi-window queues/adjacency.
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 // Fullscale V1: immutable density-adaptive membership lookup on Resource V15.
 // Construction, distance kernels, worker semantics and FRNSG015 stay unchanged.
 // V14's optional nearest2 multi-graph entry selection supports matched ablations;

@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 // Native Logical Artifact V3 ANN query adapter.
 #pragma once
 

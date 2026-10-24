@@ -1,4 +1,4 @@
-# SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+# SPDX-License-Identifier: MIT
 cmake_minimum_required(VERSION 3.18)
 project(rfbb_bounded_blowup_cpp LANGUAGES CXX)
 

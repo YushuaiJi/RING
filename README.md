@@ -62,3 +62,8 @@ alpha 1.2, maximum degree 32, 8 entry points per graph.
 | `src/ring_native.cpp` | Python extension: corpus, graphs, single- and multi-graph search |
 | `ring/` | Python index (`FullIndex`) and helpers; `frans_*` modules are internal stages |
 | `examples/quickstart.py` | end-to-end example on synthetic data |
+
+## License
+
+MIT License, Copyright (c) 2026 Yushuai Ji. See [LICENSE](LICENSE). pybind11 is used as an
+external build dependency under its own BSD-3-Clause license and is not included here.

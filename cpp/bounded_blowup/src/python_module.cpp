@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 // Original implementation for PVLDB2027-RFANN. No baseline source is copied.
 #include <pybind11/numpy.h>
 #include <pybind11/pybind11.h>

@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 // Native leaf reachability repair is a separate seam from leaf construction.
 #pragma once
 

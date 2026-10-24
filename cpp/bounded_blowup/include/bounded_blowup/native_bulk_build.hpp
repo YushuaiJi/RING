@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 // Stage-A native coarse bulk-build seam.  This module owns all graph rows.
 #pragma once
 

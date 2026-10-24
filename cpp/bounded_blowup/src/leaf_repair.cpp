@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: LicenseRef-PVLDB2027-RFANN-Research
+// SPDX-License-Identifier: MIT
 #include "bounded_blowup/leaf_repair.hpp"
 
 #include "bounded_blowup/numeric.hpp"
